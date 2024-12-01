@@ -10,8 +10,13 @@ dependencies:
   cloud_firestore: ^5.5.0
   firebase_auth: ^5.3.3
   firebase_core: ^3.8.0
+  firebase_ui_auth: ^1.16.0
+  firebase_ui_firestore: ^1.7.0
   flutter:
     sdk: flutter
+  go_router: ^14.6.1
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
 
 dev_dependencies:
   flutter_lints: ^4.0.0
